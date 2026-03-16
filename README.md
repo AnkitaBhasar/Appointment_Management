@@ -28,32 +28,31 @@ A simple Appointment Management System built using React and Vite. This applicat
 
 # Project Structure
 
-appointment-management-system
-
-public
- └── vite.svg
-
-src
- ├── Components
- │    ├── AppointmentForm.jsx
- │    └── AppointmentList.jsx
- │
- ├── assets
- │    └── react.svg
- │
- ├── App.css
- ├── App.jsx
- ├── index.css
- └── main.jsx
-
-.gitignore
-README.md
-eslint.config.js
-index.html
-package-lock.json
-package.json
-vite.config.js
-
+appointment-management-system/
+│
+├── public/
+│   └── vite.svg
+│
+├── src/
+│   ├── Components/
+│   │   ├── AppointmentForm.jsx
+│   │   └── AppointmentList.jsx
+│   │
+│   ├── assets/
+│   │   └── react.svg
+│   │
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+│
+├── .gitignore
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+└── vite.config.js
 --------------------------------------------------
 
 # Installation and Setup
