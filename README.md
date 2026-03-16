@@ -25,9 +25,9 @@ A simple Appointment Management System built using React and Vite. This applicat
 - npm
 
 --------------------------------------------------
+## Project Structure
 
-# Project Structure
-
+```
 appointment-management-system/
 │
 ├── public/
@@ -53,8 +53,8 @@ appointment-management-system/
 ├── package-lock.json
 ├── package.json
 └── vite.config.js
+```
 --------------------------------------------------
-
 # Installation and Setup
 
 # Clone the repository
